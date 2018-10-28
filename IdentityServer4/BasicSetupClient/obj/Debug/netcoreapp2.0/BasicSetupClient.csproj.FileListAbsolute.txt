@@ -1,0 +1,10 @@
+/Users/kirkwiebe/IdentityServer4/BasicSetupClient/bin/Debug/netcoreapp2.0/BasicSetupClient.deps.json
+/Users/kirkwiebe/IdentityServer4/BasicSetupClient/bin/Debug/netcoreapp2.0/BasicSetupClient.runtimeconfig.json
+/Users/kirkwiebe/IdentityServer4/BasicSetupClient/bin/Debug/netcoreapp2.0/BasicSetupClient.runtimeconfig.dev.json
+/Users/kirkwiebe/IdentityServer4/BasicSetupClient/bin/Debug/netcoreapp2.0/BasicSetupClient.dll
+/Users/kirkwiebe/IdentityServer4/BasicSetupClient/bin/Debug/netcoreapp2.0/BasicSetupClient.pdb
+/Users/kirkwiebe/IdentityServer4/BasicSetupClient/obj/Debug/netcoreapp2.0/BasicSetupClient.csproj.CoreCompileInputs.cache
+/Users/kirkwiebe/IdentityServer4/BasicSetupClient/obj/Debug/netcoreapp2.0/BasicSetupClient.AssemblyInfoInputs.cache
+/Users/kirkwiebe/IdentityServer4/BasicSetupClient/obj/Debug/netcoreapp2.0/BasicSetupClient.AssemblyInfo.cs
+/Users/kirkwiebe/IdentityServer4/BasicSetupClient/obj/Debug/netcoreapp2.0/BasicSetupClient.dll
+/Users/kirkwiebe/IdentityServer4/BasicSetupClient/obj/Debug/netcoreapp2.0/BasicSetupClient.pdb
