@@ -1,0 +1,10 @@
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetupMVCClient/bin/Debug/netcoreapp2.0/BasicSetupMVCClient.deps.json
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetupMVCClient/bin/Debug/netcoreapp2.0/BasicSetupMVCClient.runtimeconfig.json
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetupMVCClient/bin/Debug/netcoreapp2.0/BasicSetupMVCClient.runtimeconfig.dev.json
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetupMVCClient/bin/Debug/netcoreapp2.0/BasicSetupMVCClient.dll
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetupMVCClient/bin/Debug/netcoreapp2.0/BasicSetupMVCClient.pdb
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetupMVCClient/obj/Debug/netcoreapp2.0/BasicSetupMVCClient.csproj.CoreCompileInputs.cache
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetupMVCClient/obj/Debug/netcoreapp2.0/BasicSetupMVCClient.AssemblyInfoInputs.cache
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetupMVCClient/obj/Debug/netcoreapp2.0/BasicSetupMVCClient.AssemblyInfo.cs
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetupMVCClient/obj/Debug/netcoreapp2.0/BasicSetupMVCClient.dll
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetupMVCClient/obj/Debug/netcoreapp2.0/BasicSetupMVCClient.pdb
