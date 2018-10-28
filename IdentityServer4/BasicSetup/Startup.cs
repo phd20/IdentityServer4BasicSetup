@@ -10,6 +10,7 @@ public class Startup
         
         services.AddIdentityServer()
             .AddDeveloperSigningCredential()
+            .AddInMemoryIdentityResources(Config.GetIdentityResources())
             .AddInMemoryApiResources(Config.GetApiResources())
             .AddInMemoryClients(Config.GetClients());
     }
