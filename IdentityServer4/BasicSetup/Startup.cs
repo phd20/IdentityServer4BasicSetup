@@ -6,6 +6,8 @@ public class Startup
 {
     public void ConfigureServices(IServiceCollection services)
     {
+        services.AddMvc();
+        
         services.AddIdentityServer()
             .AddDeveloperSigningCredential()
             .AddInMemoryApiResources(Config.GetApiResources())
@@ -20,5 +22,8 @@ public class Startup
         }
 
         app.UseIdentityServer();
+
+        app.UseStaticFiles();
+        app.UseMvcWithDefaultRoute();
     }
 }

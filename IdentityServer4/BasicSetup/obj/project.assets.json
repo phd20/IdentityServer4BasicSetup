@@ -12478,11 +12478,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kirkwiebe/IdentityServer4/BasicSetup/BasicSetup.csproj",
+      "projectUniqueName": "/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetup/BasicSetup.csproj",
       "projectName": "BasicSetup",
-      "projectPath": "/Users/kirkwiebe/IdentityServer4/BasicSetup/BasicSetup.csproj",
+      "projectPath": "/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetup/BasicSetup.csproj",
       "packagesPath": "/Users/kirkwiebe/.nuget/packages/",
-      "outputPath": "/Users/kirkwiebe/IdentityServer4/BasicSetup/obj/",
+      "outputPath": "/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetup/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -8,3 +8,13 @@
 /Users/kirkwiebe/IdentityServer4/BasicSetup/obj/Debug/netcoreapp2.0/BasicSetup.AssemblyInfo.cs
 /Users/kirkwiebe/IdentityServer4/BasicSetup/obj/Debug/netcoreapp2.0/BasicSetup.dll
 /Users/kirkwiebe/IdentityServer4/BasicSetup/obj/Debug/netcoreapp2.0/BasicSetup.pdb
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetup/bin/Debug/netcoreapp2.0/BasicSetup.deps.json
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetup/bin/Debug/netcoreapp2.0/BasicSetup.runtimeconfig.json
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetup/bin/Debug/netcoreapp2.0/BasicSetup.runtimeconfig.dev.json
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetup/bin/Debug/netcoreapp2.0/BasicSetup.dll
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetup/bin/Debug/netcoreapp2.0/BasicSetup.pdb
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetup/obj/Debug/netcoreapp2.0/BasicSetup.csproj.CoreCompileInputs.cache
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetup/obj/Debug/netcoreapp2.0/BasicSetup.AssemblyInfoInputs.cache
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetup/obj/Debug/netcoreapp2.0/BasicSetup.AssemblyInfo.cs
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetup/obj/Debug/netcoreapp2.0/BasicSetup.dll
+/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetup/obj/Debug/netcoreapp2.0/BasicSetup.pdb
