@@ -12371,11 +12371,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kirkwiebe/IdentityServer4/BasicSetupApi/BasicSetupApi.csproj",
+      "projectUniqueName": "/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetupApi/BasicSetupApi.csproj",
       "projectName": "BasicSetupApi",
-      "projectPath": "/Users/kirkwiebe/IdentityServer4/BasicSetupApi/BasicSetupApi.csproj",
+      "projectPath": "/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetupApi/BasicSetupApi.csproj",
       "packagesPath": "/Users/kirkwiebe/.nuget/packages/",
-      "outputPath": "/Users/kirkwiebe/IdentityServer4/BasicSetupApi/obj/",
+      "outputPath": "/Users/kirkwiebe/Documents/GitHub/IdentityServer4BasicSetup/IdentityServer4/BasicSetupApi/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
